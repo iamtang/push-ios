@@ -1,0 +1,33 @@
+{
+  "name": "push-ios",
+  "version": "0.0.1",
+  "description": "push-ios",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "lodash": "4.17.11",
+    "apn": "2.2.0"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": { 
+    "type" : "git", 
+    "url" : "https://github.com/iamtang/push-ios.git"
+  },
+  "keywords": [
+    "koa",
+    "ios",
+    "push-ios",
+    "push"
+  ],
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/iamtang/push-ios/issues",
+    "email": "303907720@qq.com"
+  },
+  "author": "JJ",
+  "license": "MIT"
+}
