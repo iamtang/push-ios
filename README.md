@@ -64,4 +64,4 @@ ios.push({
 |mdm|mdm|String|
 
 
-[魅族官方文档](http://open.res.flyme.cn/fileserver/upload/file/201803/be1f71eac562497f92b42c750196a062.pdf)
+[APN官方文档](https://github.com/node-apn/node-apn/blob/master/doc/notification.markdown)
