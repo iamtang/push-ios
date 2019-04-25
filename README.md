@@ -31,11 +31,15 @@ ios.push({
   title: 'title',
   content: 'content',
   list: ['Token'],
+  sleep: 0, // 请求间隔时间/毫秒
   success(res) {
     // ...
   },
   error(err) {
-  // ...
+    // ...
+  },
+  finish(res){
+    // 所有请求完成回调
   }
 });
 ```
