@@ -10,6 +10,8 @@
 
 [魅族推送](https://www.npmjs.com/package/push-meizu)
 
+[oppo推送](https://www.npmjs.com/package/push-oppo)
+
 [友盟推送](https://www.npmjs.com/package/push-umeng)
 
 ## 安装
