@@ -1,6 +1,6 @@
 {
   "name": "push-ios",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "push-ios",
   "main": "index.js",
   "dependencies": {
