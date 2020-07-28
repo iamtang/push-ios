@@ -34,6 +34,9 @@ ios.push({
   content: 'content',
   list: ['Token'],
   sleep: 0, // 请求间隔时间/毫秒
+  aps: {
+    // ...apsConfig
+  }
   success(res) {
     // ...
   },

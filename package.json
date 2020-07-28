@@ -1,10 +1,10 @@
 {
   "name": "push-ios",
-  "version": "0.1.9",
+  "version": "1.0.0",
   "description": "push-ios",
   "main": "index.js",
   "dependencies": {
-    "lodash": "4.17.11",
+    "lodash": "^4.17.19",
     "apn": "2.2.0"
   },
   "devDependencies": {
